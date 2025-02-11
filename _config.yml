@@ -1,39 +1,12 @@
 # _config.yml
+title: "Documentation de NUMMU Bot"
+description: "Guide complet d'utilisation et de développement du bot NUMMU"
+baseurl: "/docs"       # chemin relatif au site
+url: "https://votre-domaine.com"  # URL de base du site
+theme: minima
+markdown: kramdown
 
-title: "Documentation v-live-docs"
-description: "Documentation pour le projet v-live-docs"
-
-# Utilisation du thème distant Just the Docs (choisissez une version stable)
-remote_theme: pmarsceill/just-the-docs@v0.4.0
-
-plugins:
-  - jekyll-remote-theme
-
-# Configuration spécifique pour Just the Docs
-just_the_docs:
-  # Vous pouvez définir ici le logo si vous en avez un
-  logo: /assets/images/logo.png
-  # Définissez la navigation en fonction de vos dossiers
-  nav:
-    - title: "Getting Started"
-      url: /getting-started/
-    - title: "Using Discord"
-      url: /using-discord/
-    - title: "Using The Website"
-      url: /using-the-website/
-    - title: "Commands Parameters and Tools"
-      url: /commands-parameters-tools/
-    - title: "Writing Prompts"
-      url: /writing-prompts/
-    - title: "Working with Your Own Images"
-      url: /working-with-your-own-images/
-    - title: "Style and Aesthetics"
-      url: /style-and-aesthetics/
-    - title: "Image Size and Aspect Ratio"
-      url: /image-size-and-aspect-ratio/
-    - title: "Advanced Prompting Tools"
-      url: /advanced-prompting-tools/
-    - title: "Subscriptions"
-      url: /subscriptions/
-    - title: "Policies"
-      url: /policies/
+# Navigation principale (optionnel)
+collections:
+  sections:
+    output: true
