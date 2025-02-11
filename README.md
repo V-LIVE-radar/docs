@@ -1,4 +1,4 @@
-# Documentation de NUMMU Bot
+# Documentation de V-LIVE.radar
 
 Bienvenue dans la documentation complète de **NUMMU Bot**, votre outil Discord dédié à la gestion et à la mise en relation dans le secteur immobilier. Ce bot, dont le code source compte plus de 7000 lignes, offre de nombreuses fonctionnalités telles que la recherche géographique, la gestion d’annonces et de favoris, la mise en relation inversée entre acheteurs et prospecteurs, ainsi que des outils de modération et la gestion d’abonnements.
 
