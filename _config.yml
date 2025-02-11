@@ -1,0 +1,41 @@
+# _config.yml
+
+# Informations générales sur le site
+title: "Documentation v-live-docs"
+description: "Documentation pour le projet v-live-docs"
+
+# Utiliser un thème distant (remote_theme) : Just the Docs
+remote_theme: pmarsceill/just-the-docs@v0.4.0
+
+# Le plugin nécessaire pour les thèmes distants
+plugins:
+  - jekyll-remote-theme
+
+# Configuration spécifique au thème Just the Docs
+just_the_docs:
+  # (Optionnel) Chemin vers le logo (ajoutez votre image dans un dossier, par exemple assets/images)
+  logo: /assets/images/logo.png
+  # Définissez la navigation avec les catégories et sous-catégories
+  nav:
+    - title: "Getting Started"
+      url: /getting-started/
+    - title: "Using Discord"
+      url: /using-discord/
+    - title: "Using The Website"
+      url: /using-the-website/
+    - title: "Commands Parameters and Tools"
+      url: /commands-tools/
+    - title: "Writing Prompts"
+      url: /writing-prompts/
+    - title: "Working with Your Own Images"
+      url: /working-with-images/
+    - title: "Style and Aesthetics"
+      url: /style-and-aesthetics/
+    - title: "Image Size and Aspect Ratio"
+      url: /image-size/
+    - title: "Advanced Prompting Tools"
+      url: /advanced-tools/
+    - title: "Subscriptions"
+      url: /subscriptions/
+    - title: "Policies"
+      url: /policies/
