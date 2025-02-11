@@ -2,7 +2,7 @@
 title: "Documentation de NUMMU Bot"
 description: "Guide complet d'utilisation et de développement du bot NUMMU"
 baseurl: "/docs"       # chemin relatif au site
-url: "https://votre-domaine.com"  # URL de base du site
+url: "https://nummu.ca/forfait/"  # URL de base du site
 theme: minima
 markdown: kramdown
 
