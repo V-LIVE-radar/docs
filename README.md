@@ -1,11 +1,12 @@
 # Documentation de NUMMU Bot
 
-Ce dossier contient la documentation du bot NUMMU. Elle est organisée en plusieurs sections et peut être générée avec un générateur de site statique (ex. Jekyll).
+Bienvenue dans la documentation de NUMMU Bot. Vous trouverez ici :
 
-## Structure
-
-- **index.md** : Page d’accueil.
-- **_config.yml** : Configuration globale du site.
-- **assets/** : Fichiers CSS et images.
-- **includes/** : Partiels (header, footer, etc.).
-- **sections/** : Contient chaque section de la documentation.
+- [Premiers Pas](docs/sections/1_premiers-pas.md)
+- [Utiliser Discord](docs/sections/2_utiliser-discord.md)
+- [Commandes et Outils](docs/sections/3_commandes-outils.md)
+- [Gestion du Compte](docs/sections/4_gestion-compte.md)
+- [Modération et Administration](docs/sections/5_moderation-administration.md)
+- [Paiement et Abonnements](docs/sections/6_paiement-abonnements.md)
+- [Fonctionnalités Avancées](docs/sections/7_fonctionnalites-avancees.md)
+- [Architecture et Développement](docs/sections/8_architecture-developpement.md)
