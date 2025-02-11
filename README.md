@@ -1,8 +1,8 @@
 # Documentation de V-LIVE.radar
 
-Bienvenue dans la documentation complète de **V-LIVE.radar**, votre outil Discord dédié à la gestion et à la mise en relation dans le secteur immobilier. Conçu pour vous simplifier l’accès aux annonces, à la recherche géographique et à la mise en relation entre acheteurs et prospecteurs, NUMMU Bot offre une multitude de fonctionnalités. Son code source complet compte plus de 7000 lignes et s’appuie sur des technologies telles que discord.py, MongoDB, et le caching pour garantir rapidité et fiabilité.
+Bienvenue dans la documentation complète de **V-LIVE.radar**, votre outil Discord dédié à la gestion et à la mise en relation dans le secteur immobilier. Conçu pour vous simplifier l’accès aux annonces, à la recherche géographique et à la mise en relation entre acheteurs et prospecteurs, NUMMU.Bot offre une multitude de fonctionnalités.
 
-> **Remarque :** Ce guide utilisateur est conçu pour répondre aux besoins spécifiques des utilisateurs FREEMIUM, PREMIUM, PLATINUM, PROFESSIONNEL et SIGNATURE. Chaque section vous expliquera ce que vous pouvez attendre de NUMMU Bot en fonction de votre abonnement.
+> **Remarque :** Ce guide utilisateur est conçu pour répondre aux besoins spécifiques des utilisateurs FREEMIUM, PREMIUM, PLATINUM, PROFESSIONNEL et SIGNATURE. Chaque section vous expliquera ce que vous pouvez attendre de NUMMU.Bot en fonction de votre abonnement.
 
 ---
 
