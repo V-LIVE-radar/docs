@@ -451,6 +451,6 @@ Ce guide utilisateur vous offre une vue d’ensemble complète de NUMMU Bot. Vou
 ## Contact
 
 Pour toute question ou support, contactez :  
-**[Votre Nom / Équipe NUMMU]**  
-Email : [votre.email@example.com]  
-Ou rejoignez notre serveur Discord via le lien suivant : [Lien Discord](https://discord.gg/votre-lien)
+**[Vezuras / Équipe NUMMU]**  
+Email : [info@nummu.ca]  
+Ou rejoignez notre serveur Discord via le lien suivant : [Lien Discord]([https://discord.gg/votre-lien](https://discord.gg/GZWHm9mTsu))
