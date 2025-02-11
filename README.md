@@ -2,7 +2,7 @@
 
 Bienvenue dans la documentation de NUMMU Bot. Vous trouverez ici :
 
-- [Premiers Pas](docs/sections/1_premiers-pas.md)
+- [Premiers Pas](sections/1_premiers-pas.md)
 - [Utiliser Discord](docs/sections/2_utiliser-discord.md)
 - [Commandes et Outils](docs/sections/3_commandes-outils.md)
 - [Gestion du Compte](docs/sections/4_gestion-compte.md)
