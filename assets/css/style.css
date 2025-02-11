@@ -1,0 +1,16 @@
+/* assets/css/style.css */
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+header, footer {
+  background-color: #45578c;
+  color: #fff;
+  padding: 1em;
+  text-align: center;
+}
